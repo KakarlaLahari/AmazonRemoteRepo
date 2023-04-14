@@ -2,7 +2,7 @@
 ##just for demo
 [click here](login.html)
 #List of elements
-*hi
-*hello
-*welcome
-*happy day
+* hi
+* hello
+* welcome
+* happy day
